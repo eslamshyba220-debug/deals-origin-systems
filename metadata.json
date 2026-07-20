@@ -1,0 +1,6 @@
+{
+  "name": "Deals Origin Systems",
+  "description": "Enterprise Management System with advanced CRM, Client tracking, Content Planner, Media Buying, Invoices, WhatsApp API integrations, HR portal, Task Management, and server-side AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
